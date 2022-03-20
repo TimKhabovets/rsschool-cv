@@ -1,5 +1,5 @@
 # Tim Khabovets
-===============
+*********
 
 #### Contact with me:
  * Telegram: @tutuMAstyle
@@ -12,7 +12,7 @@ I really want to have a permanent source of income,
 so I decided to take the Front-End course at RSSchool.
 
 #### Code example:
-'''
+```
 function getMiddle(s)
 { 
   if((s.length)%2 === 1){
@@ -28,7 +28,7 @@ function getMiddle(s)
     return undefined;
   }
 }
-'''
+```
 
 #### Work experience:
 Not present at the moment.
